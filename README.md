@@ -9,12 +9,6 @@ This project is a memory card game. The goal is to match pairs of identical card
 - **Card Matching Mechanic**: The user selects two cards at a time. If the cards match, they stay face-up on the board; if not, they flip back down.
 - **Scoring System**: The game calculates a final score based on the number of moves taken.
 
-## Technologies Used
-
-- **HTML**: Provides the basic structure of the game interface.
-- **CSS**: Styles the game interface.
-- **JavaScript**: Handles game mechanics, card flipping, and matching logic.
-
 ## Code Structure (JavaScript)
 
 - **Card Creation and Shuffling**: All cards are created in an array, shuffled, and then placed on the board in random order.
