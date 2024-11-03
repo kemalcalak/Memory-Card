@@ -1,4 +1,4 @@
-![Memory Card Game](https://res.cloudinary.com/dkqu2s9gz/image/upload/v1730660810/hbnejj44whuxpfexvcn3.png)
+<img src="https://res.cloudinary.com/dkqu2s9gz/image/upload/v1730660810/hbnejj44whuxpfexvcn3.png" alt="Memory Card Game" width="200">
 
 # Memory Card Game
 
@@ -8,6 +8,12 @@ This project is a memory card game. The goal is to match pairs of identical card
 
 - **Card Matching Mechanic**: The user selects two cards at a time. If the cards match, they stay face-up on the board; if not, they flip back down.
 - **Scoring System**: The game calculates a final score based on the number of moves taken.
+
+## Technologies Used
+
+- **HTML**: Provides the basic structure of the game interface.
+- **CSS**: Styles the game interface.
+- **JavaScript**: Handles game mechanics, card flipping, and matching logic.
 
 ## Code Structure (JavaScript)
 
@@ -19,4 +25,3 @@ This project is a memory card game. The goal is to match pairs of identical card
 ## Game Logic
 
 In each turn, the player selects two cards. If the selected cards match, they stay face-up on the board; otherwise, they flip back down. The game ends when all cards are matched, and the score is calculated based on the number of moves taken.
-
